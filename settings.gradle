@@ -1,0 +1,1 @@
+include ':app', ':unshell', ':device', ':hook', ':hookbase', ':test'
